@@ -7,7 +7,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RealCodz&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Global-blue" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Global-blue" 
+  alt="Location" />
 </div>
 
 ---
@@ -82,6 +83,9 @@
   <a href="https://discord.com/users/1385677353094746122
 ">
     <img src="https://img.shields.io/badge/discord -0077B5?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn" />
+  </a>
+    <a href="https://t.me/RealCodz">
+    <img src="https://img.shields.io/badge/My Telegram channel -D14836?style=for-the-badge&logo=telegram&logoColor=white" alt="Email" />
   </a>
 </div>
 
