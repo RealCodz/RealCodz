@@ -1,4 +1,4 @@
-# 👋 Hello, I'm RealCodz
+# 👋 Hello, I'm SaIFF
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=SaiFF+" alt="Typing SVG" />
@@ -79,8 +79,9 @@
   <a href="https://t.me/ooann">
     <img src="https://img.shields.io/badge/telegram-D14836?style=for-the-badge&logo=telegram&logoColor=white" alt="Email" />
   </a>
-  <a href="w">
-    <img src="https://img.shields.io/badge/{discord xxxxqx} -0077B5?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn" />
+  <a href="https://discord.com/users/1385677353094746122
+">
+    <img src="https://img.shields.io/badge/discord -0077B5?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
